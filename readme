@@ -1,0 +1,3 @@
+O arquivo "eulerian_graph_generator.cpp" contém o algoritmo utilizado para gerar grafos eulerianos.
+O diretório "MAX-ECD" contém os grafos utilizados nos experimentos.
+O diretódio "MAX-ACD" contém as permutações que deram origem aos grafos bicoloridos utilizados nos experimentos.
